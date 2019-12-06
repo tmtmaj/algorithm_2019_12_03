@@ -66,7 +66,7 @@ NGE_list = [-1 for _ in range(N)]
 stack = []
 
 for num in range(N):
-    
+
     NGE_list[stack.pop()]
     stack.append(num)
 
