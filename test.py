@@ -1,2 +1,1 @@
-for a in range(3,1):
-    print(a)
+print(2**3)
